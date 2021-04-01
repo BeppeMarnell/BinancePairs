@@ -1,4 +1,4 @@
-# Binance scraped from coinmarketcap.com
+# Some Binance Pairs scraped from coinmarketcap.com
 I scraped pairs that match the pattern e.g. '*coin*/BTC' <br />
 Pairs: BTC, ETH, USDT, BNB, BUSD, USD<br />
 All pairs are ordered by 24h volume <br />
