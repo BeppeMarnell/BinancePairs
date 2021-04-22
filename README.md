@@ -1,5 +1,5 @@
 # Some Binance Pairs scraped from coingecko.com
-I scraped pairs that match the pattern e.g. '*coin*/BTC' <br />
+<br />
 Pairs: BTC, ETH, USDT, BNB, BUSD, USD<br />
 All pairs are ordered by 24h volume <br />
 Last update: 23 April 2021 <br />
